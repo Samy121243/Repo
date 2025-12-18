@@ -25,15 +25,17 @@ Traditional university systems often suffer from:
 - **Dashboard:** Simplified layout with 6–7 core functions, improved discoverability  
 - **Departments & Students Screens:** Clear data visualization, fast actions, live feedback  
 - **Teachers Screen:** Advanced administrative controls, context menus, consistent UI  
-##| Name                       | Role           |
-  | ---------------------------| -------------- |
-  | Samy Ayman Abdo            | Backend Dev    |
-  | Omar Ahmed Elatar          | UI/UX Designer |
-  | Sobhy Abdelhakim mahmoud   | UI/UX Designer |
+
+## Team Members
+| Name                       | Role           |
+| ---------------------------| -------------- |
+| Samy Ayman Abdo            | Backend Developer |
+| Omar Ahmed Elatar          | UI/UX Designer |
+| Sobhy Abdelhakim Mahmoud   | UI/UX Designer |
 
 ## Tools & Technologies
 - **Backend & Database:** C#, .NET, SQL, ADO.NET   
-- **Principles:** Usability, Accessibility, Feedback, Consistency  
+- **Design & Principles:** Figma, Usability, Accessibility, Feedback, Consistency  
 
 ## Outcome
 The redesign transformed a complex and frustrating system into a **clear, efficient, and engaging platform**, improving **usability, error handling, and user confidence** across all workflows.
