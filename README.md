@@ -25,10 +25,14 @@ Traditional university systems often suffer from:
 - **Dashboard:** Simplified layout with 6–7 core functions, improved discoverability  
 - **Departments & Students Screens:** Clear data visualization, fast actions, live feedback  
 - **Teachers Screen:** Advanced administrative controls, context menus, consistent UI  
+##| Name                       | Role           |
+  | ---------------------------| -------------- |
+  | Samy Ayman Abdo            | Backend Dev    |
+  | Omar Ahmed Elatar          | UI/UX Designer |
+  | Sobhy Abdelhakim mahmoud   | UI/UX Designer |
 
 ## Tools & Technologies
-- **Backend & Database:** C#, .NET, SQL, ADO.NET  
-- **Design:** Figma  
+- **Backend & Database:** C#, .NET, SQL, ADO.NET   
 - **Principles:** Usability, Accessibility, Feedback, Consistency  
 
 ## Outcome
